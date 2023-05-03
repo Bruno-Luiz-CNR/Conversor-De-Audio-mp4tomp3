@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "conversor": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Bruno\\Desktop\\conversor"
+    }
+  }
+}

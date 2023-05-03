@@ -1,0 +1,8 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: conversor, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>C:\Users\Bruno\source\repos\conversor\Form1.cs(115,49,115,66): error CS0246: O nome do tipo ou do namespace "LameMP3FileWriter" não pode ser encontrado (está faltando uma diretiva using ou uma referência de assembly?)
+1>C:\Users\Bruno\source\repos\conversor\Form1.cs(115,95,115,105): error CS0103: O nome "LAMEPreset" não existe no contexto atual
+1>Projeto de compilação pronto "conversor.csproj" -- FALHA.
+========== Compilação: 0 bem-sucedida, 1 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 5:10 PM e levou 01,304 segundos ==========
